@@ -12,6 +12,8 @@ using namespace std;
 
 // Nueva linea para prueba de git colaborativo
 
+void newFunction(){}
+
 class Serial
 {
 public:
