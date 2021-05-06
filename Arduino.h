@@ -10,6 +10,8 @@ using namespace std;
 #define LOW 0
 #define HIGH 1
 
+// Nueva linea para prueba de git colaborativo
+
 class Serial
 {
 public:
